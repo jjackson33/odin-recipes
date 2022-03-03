@@ -1,0 +1,15 @@
+body{
+    
+}
+
+.mainPhoto{
+    height:200px;
+    width: 33%;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+.info{
+    background-color: #6c757d;
+}
